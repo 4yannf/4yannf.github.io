@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "cryptography"
+date: 2026-11-01 00:54:00 +0800
+categories: jekyll update
 ---
 
 ## 分组加密和流加密
